@@ -19,11 +19,11 @@ from pages.authors import author
 
 
 class Page(author.Page):
-    """The tlarsen author page of the GiR App Labs at AAMU app."""
+    """The mcarrjr author page of the GiR App Labs at AAMU app."""
 
-    USER_NAME = 'tthomp37'
-    DISPLAY_NAME = 'TAIVON THOMPSON'
-    MESSAGE = "Hi, I'm TAIVON THOMPSON!"
+    USER_NAME = 'mcarrjr'
+    DISPLAY_NAME = 'Maurice Carr, Jr'
+    MESSAGE = "Hi, I'm Maurice Carr, Jr!"
 
 
 author_list.Page.add_author_page(Page)

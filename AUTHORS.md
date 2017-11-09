@@ -5,8 +5,10 @@ Full Name                            | Email Address
 ------------------------------------ | ---------------------------------------
 Uricka Alexander                     | ualexan1@bulldogs.aamu.edu
 Ademola Ayokanmbi                    | aoa0006@uah.edu
+Maurice Carr, Jr.                    | mcarrjr@bulldogs.aamu.edu
 Adam Preston Eagle                   | aeagle@bulldogs.aamu.edu
 Eboni Gardner                        | egardner2@bulldogs.aamu.edu
+Sydney Jenkins                       | sjenki18@bulldogs.aamu.edu
 Todd C. Larsen                       | todd.larsen.at.aamu@gmail.com
 Kelvin Lule                          | klule@bulldogs.aamu.edu
 Sarina Martinez                      | smartine@bulldogs.aamu.edu
